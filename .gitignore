@@ -1,0 +1,17 @@
+*.RData
+*.Rhistory
+summarySCC_PM25.rds
+Source_Classification_Code.rds
+.RData
+converge.Rout
+Q1.R
+Q2.R
+Q3.R
+Q4.R
+Q5.R
+read-data.Rout
+*.Rout
+Q6.R
+*.pdf
+read-data.R
+
