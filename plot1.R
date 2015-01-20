@@ -9,6 +9,6 @@ names(emissions) <- c("Year", "Emissions")
 ##
 
 png(filename="plot1.png", width=480, height=480)
-plot(emissions, xlab="Year", ylab="Emissions (millions of tons)", type="b", pch=19, lty=1, col="red")
+plot(emissions, xlab="Year", ylab="Emissions ", type="b", pch=19, lty=1, col="blue")
 title(main=expression(PM[2.5] * " Total Emissions"))
 dev.off();
